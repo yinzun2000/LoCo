@@ -1,4 +1,4 @@
-#' Select the proper are and time series of interest from the input data. It is a pre-processing process of the DFF framework.
+#' Select the proper time series of interest from the input data. It is a pre-processing process of the DFF framework.
 
 #' @param var.i the input 3D variable (lon,lat,time).
 #' @param lon.i longitude.

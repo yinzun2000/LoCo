@@ -2,7 +2,7 @@
 % Please edit documentation in R/dff.R
 \name{DFF}
 \alias{DFF}
-\title{Performance the Duan-Findell-Fueglistaler (DFF) framework.
+\title{The Duan-Findell-Fueglistaler (DFF) framework.
 Reference: Duan S. Q., Findell K. L., and Fueglistaler S. A.: Coherent mechanistic patterns of land hydroclimatic changes, GRL, 50, e2022GL102285. https://doi.org/10.1029/2022GL102285}
 \usage{
 DFF(sm, indx, ai, lsm, lat, n.bin = 50)
@@ -24,6 +24,6 @@ DFF(sm, indx, ai, lsm, lat, n.bin = 50)
 a 2D matrix (n.bin,n.bin) showing the patterns of area-weighted indx with x-axis the percentile of soil moisture and y-axis the percentile of arid index.
 }
 \description{
-Performance the Duan-Findell-Fueglistaler (DFF) framework.
+The Duan-Findell-Fueglistaler (DFF) framework.
 Reference: Duan S. Q., Findell K. L., and Fueglistaler S. A.: Coherent mechanistic patterns of land hydroclimatic changes, GRL, 50, e2022GL102285. https://doi.org/10.1029/2022GL102285
 }

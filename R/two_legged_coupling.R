@@ -11,7 +11,6 @@
 #' @export
 two_legged_coupling <-  function(land,flux,atmos,sign.level=0.05,parallel=F,core.frac=.5,core.max=10)
 {
-
     #check inputs types
     t.land  <-  loco_check_type(land)
     t.flux  <-  loco_check_type(flux)

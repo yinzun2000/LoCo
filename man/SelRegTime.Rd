@@ -2,7 +2,7 @@
 % Please edit documentation in R/SelRegTime.R
 \name{SelRegTime}
 \alias{SelRegTime}
-\title{Select the proper are and time series of interest from the input data. It is a pre-processing process of the DFF framework.}
+\title{Select the proper time series of interest from the input data. It is a pre-processing process of the DFF framework.}
 \usage{
 SelRegTime(
   var.i,
@@ -36,5 +36,5 @@ SelRegTime(
 a list: var: lon: masked longitude; lat: masked latitude; var: 3D array of variable.
 }
 \description{
-Select the proper are and time series of interest from the input data. It is a pre-processing process of the DFF framework.
+Select the proper time series of interest from the input data. It is a pre-processing process of the DFF framework.
 }

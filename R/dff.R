@@ -1,4 +1,4 @@
-#' Performance the Duan-Findell-Fueglistaler (DFF) framework.
+#' The Duan-Findell-Fueglistaler (DFF) framework.
 #' Reference: Duan S. Q., Findell K. L., and Fueglistaler S. A.: Coherent mechanistic patterns of land hydroclimatic changes, GRL, 50, e2022GL102285. https://doi.org/10.1029/2022GL102285
 
 #' @param sm a 3D array of soil moisture (lon,lat,time).
